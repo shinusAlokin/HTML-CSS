@@ -13,7 +13,7 @@ body{
     margin: 0;
     box-sizing: border-box;
    /* border: 5px blueviolet dashed; */
-   background-color: rgb(236, 234, 164, 0.7);
+   background-color: rgb(236, 234, 164, 0.2);
 }
 
 .img-cls{
@@ -61,9 +61,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-   box-shadow: 0 4px 10px  #b3b574;
+   box-shadow: 0 4px 10px  rgba(179, 181, 116, 0.3);
     color: #28282b;
-    background-color:rgba(236, 234, 164, 0.8);
+    background-color:rgba(236, 234, 164, 0.4);
     font-weight: normal;
 }
 
@@ -79,10 +79,10 @@ header{
    /* border: 5px darkturquoise dashed; */
     margin-top: 3em;
     padding: 1em;
-    background-color: rgba(239, 236, 152, 0.7);
+    background-color: rgba(239, 236, 152, 0.4);
     /* background-color: #ddd; */
     align-items: flex-start;
-   box-shadow:  6px 6px 10px #9d9f5e;
+   box-shadow:  6px 6px 7px rgba(157, 159, 94, 0.5);
 }
 
 .title{
