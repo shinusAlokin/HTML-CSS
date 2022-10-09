@@ -1,0 +1,6 @@
+2. insert 7 images using HTML with a specific height & width
+    create a link to one of the images which redirects to another webpage/website.
+
+3. List in HTML
+    nested list containing text book contents
+    create one or two links to any of the pages.
